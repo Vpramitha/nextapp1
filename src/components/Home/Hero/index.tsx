@@ -62,7 +62,7 @@ const Hero = () => {
           <motion.div {...leftAnimation} className="lg:col-span-5 col-span-12">
             <div className="flex gap-6 items-center lg:justify-start justify-center mb-5 mt-24">
               <Image
-                src= {`${getImagePrefix()}images/icons/icon-bag.svg`}
+                src= {`images/icons/icon-bag.svg`}
                 alt="icon"
                 width={40}
                 height={40}
